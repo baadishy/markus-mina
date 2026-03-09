@@ -122,11 +122,11 @@ const PROJECTS: Project[] = [
       "A math learning website for primary and preparatory students with organized lessons and exercises in a simple and engaging interface.",
     tech: ["Javascript", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     category: "api",
-    image: "../img/math-falta.png",
+    image: "/img/math-falta.png",
     link: "#",
     details: {
       screenshots: [
-        "../img/math-falta.png"
+        "/img/math-falta.png"
       ],
       github: "https://github.com/baadishy/Math-Falta-frontend",
       demo: "https://math-falta.vercel.app",
@@ -141,11 +141,11 @@ const PROJECTS: Project[] = [
       "A professional medical website designed to present clinic services, doctor information, and provide an easy way for patients to contact the clinic.",
     tech: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
     category: "web",
-    image: "../img/dr-mina-samir.png",
+    image: "/img/dr-mina-samir.png",
     link: "https://baadishy.github.io/Dr-Mina-Samir/",
     details: {
       screenshots: [
-        "../img/dr-mina-samir.png"
+        "/img/dr-mina-samir.png"
       ],
       github: "https://github.com/baadishy/Dr-Mina-Samir",
       demo: "https://baadishy.github.io/Dr-Mina-Samir/",
@@ -160,10 +160,10 @@ const PROJECTS: Project[] = [
       "A modern medical portfolio website designed to present doctor information, clinic services, and contact details in a clean and professional layout.",
     tech: ["HTML", "CSS", "JavaScript", "TailwindCSS"],
     category: "web",
-    image: "../img/dr-demiana.png",
+    image: "/img/dr-demiana.png",
     link: "https://baadishy.github.io/Dr-Demiana-Makram/",
     details: {
-      screenshots: ["../img/dr-demiana.png"],
+      screenshots: ["/img/dr-demiana.png"],
       github: "https://github.com/baadishy/Dr-Demiana-Makram",
       demo: "https://baadishy.github.io/Dr-Demiana-Makram/",
       longDescription:
