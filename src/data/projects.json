@@ -159,8 +159,8 @@
     }
   },
   {
-    "id": 9,
-    "title": "Multivendor Marketplace",
+    "id": 8,
+    "title": "Mazagy Marketplace",
     "description": "A high-performance, mobile-first marketplace with admin controls, seller tools, and real-time analytics.",
     "tech": [
       "React",
