@@ -15,7 +15,8 @@ import {
   Sparkles,
   Check,
 } from "lucide-react";
-import { PROJECTS, Project } from "./data/projects";
+import projectsData from "./data/projects.json";
+import { Project } from "./data/projects";
 
 
 const SKILL_PROFICIENCY = [
@@ -292,10 +293,10 @@ export default function App() {
     "idle" | "submitting" | "success" | "error"
   >("idle");
 
-  const filteredProjects =
-    activeTab === "all"
-      ? PROJECTS
-      : PROJECTS.filter((p) => p.category === activeTab);
+   const filteredProjects =
+     activeTab === "all"
+       ? projectsData
+       : projectsData.filter((p) => p.category === activeTab);
 
   const handleFormSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
