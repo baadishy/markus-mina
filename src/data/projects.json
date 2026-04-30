@@ -92,5 +92,25 @@
       "demo": "https://clinical-management-six.vercel.app/",
       "longDescription": "The Clinic Management System is a comprehensive web application designed for efficient clinic administration. It features bilingual support (Arabic and English), real-time financial analytics, patient record management, and automatic tithe calculations. The system supports multiple clinic locations with separate pricing configurations and provides interactive visualizations of revenue trends and patient statistics. Built with modern technologies like React, TypeScript, and integrated with Google Gemini AI for enhanced functionality."
     }
+  },
+  {
+    "id": 5,
+    "title": "Run and deploy your AI Studio app",
+    "description": "AI Studio app for running and deploying Gemini-powered applications locally.",
+    "tech": [
+      "Node.js",
+      "Gemini AI"
+    ],
+    "category": "web",
+    "image": "/img/Screenshot 2026-04-30 171657.png",
+    "link": "https://mazagy.vercel.app",
+    "details": {
+      "screenshots": [
+        "/img/Screenshot 2026-04-30 171657.png"
+      ],
+      "github": "https://github.com/baadishy/Mazagy",
+      "demo": "https://mazagy.vercel.app",
+      "longDescription": "This AI Studio application provides a complete solution for running and deploying Gemini-powered apps locally. The project includes all necessary dependencies and configuration files to get started quickly. Users can easily set up their Gemini API key and run the application with simple npm commands. The app is designed to work seamlessly with Google's AI Studio platform and can be deployed to various hosting services."
+    }
   }
 ]
