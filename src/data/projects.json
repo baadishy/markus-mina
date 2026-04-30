@@ -184,5 +184,32 @@
       "demo": "https://mazagy.vercel.app",
       "longDescription": "This platform enables sellers to showcase products and buyers to purchase them via a streamlined checkout process. It includes comprehensive dashboards for sellers and admins, featuring inventory management, order tracking, earnings visualization, and subscription-based monetization. Built with a modern stack using React and Node.js, it emphasizes security, performance, and mobile-first design."
     }
+  },
+  {
+    "id": 9,
+    "title": "Clinic Management System",
+    "description": "A professional, AI-powered management system for clinic revenues, patient tracking, and financial analytics with tithe calculation support.",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Vite",
+      "TailwindCSS",
+      "Chart.js",
+      "Recharts",
+      "Google Gemini AI",
+      "Express",
+      "Vercel"
+    ],
+    "category": "web",
+    "image": "https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6",
+    "link": "https://clinical-management-six.vercel.app",
+    "details": {
+      "screenshots": [
+        "https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6"
+      ],
+      "github": "https://github.com/baadishy/clinical-management",
+      "demo": "https://clinical-management-six.vercel.app",
+      "longDescription": "The Clinic Management System is a comprehensive web application designed for efficient clinic administration. It features bilingual support (Arabic and English), real-time financial analytics, patient record management, and automatic tithe calculations. The system supports multiple clinic locations with separate pricing configurations and provides interactive visualizations of revenue trends and patient statistics. Built with modern technologies like React, TypeScript, and integrated with Google Gemini AI for enhanced functionality."
+    }
   }
 ]
