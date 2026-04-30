@@ -92,5 +92,32 @@
       "demo": "https://clinical-management-six.vercel.app/",
       "longDescription": "The Clinic Management System is a comprehensive web application designed for efficient clinic administration. It features bilingual support (Arabic and English), real-time financial analytics, patient record management, and automatic tithe calculations. The system supports multiple clinic locations with separate pricing configurations and provides interactive visualizations of revenue trends and patient statistics. Built with modern technologies like React, TypeScript, and integrated with Google Gemini AI for enhanced functionality."
     }
+  },
+  {
+    "id": 5,
+    "title": "Mazagy Multivendor Marketplace",
+    "description": "High-performance, mobile-first marketplace for sellers to showcase products and buyers to discover and purchase them via streamlined checkout.",
+    "tech": [
+      "React",
+      "Vite",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "Recharts",
+      "JWT"
+    ],
+    "category": "web",
+    "image": "/img/Screenshot 2026-04-30 171657.png",
+    "link": "https://mazagy.vercel.app",
+    "details": {
+      "screenshots": [
+        "/img/Screenshot 2026-04-30 171657.png"
+      ],
+      "github": "https://github.com/baadishy/Mazagy",
+      "demo": "https://mazagy.vercel.app",
+      "longDescription": "Mazagy is a comprehensive multivendor marketplace platform built with modern web technologies. The platform features a mobile-first design with Arabic language support (RTL layout) and includes distinct dashboards for buyers, sellers, and admins. Sellers benefit from a 30-day free trial, commission tracking, and order management system, while buyers can browse products, place orders, and leave reviews. The platform includes robust security features with JWT authentication and secure payment workflows."
+    }
   }
 ]
